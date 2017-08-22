@@ -1,0 +1,63 @@
+*, body, blockquote {
+    font-size: 20px;
+    font-family: "Maven Pro", sans-serif;
+}
+
+body, blockquote {
+    background: white;
+}
+
+header {
+    background: none !important;
+}
+
+header .logo, header a.button, header a[role="button"] {
+    float: right;
+    background: rgba(220,220,220,0.75);
+}
+
+b, strong {
+    text-decoration: underline;
+}
+
+a, a:visited, a:active, a:hover {
+    text-decoration: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin-top: 1.25em;
+    margin-bottom: 0.75em;
+    font-family: "Suez One", serif;
+}
+
+.card h1, .card h2, .card h3, .card h4, .card h5, .card h6 {
+    margin-top: 0.5em;
+    margin-bottom: 0.25em;
+}
+
+ul.posts {
+    padding-left: 0;
+}
+
+ul.posts li {
+    display: block;
+    margin: 0.75em 0;
+}
+
+.post-title a {
+    font-size: 125%;
+}
+
+pre, code, tt, code > span {
+    font-family: "Ubunto Mono", monospace;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+blockquote:after {
+    display: none;
+}
+
