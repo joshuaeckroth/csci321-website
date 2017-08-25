@@ -9,6 +9,14 @@ CSCI 321 - 01, Fall 2017 --- Software Development II
 
 MWF 11-11:50am Eliz 205; pre-reqs: CSCI 221
 
+This course prepares you to work on large software projects with a large team ("large" relative to typical undergraduate experiences). The entire course is centered around the project, and project milestones and presentations replace tests and homework.
+
+Expected learning outcomes include experience in,
+
+- working on a software project in a team
+- developing and presenting a "pitch" presentation
+- keeping track of project milestones and meeting deadlines
+- keeping careful track of time (hours worked on the project each day)
 
 ## About me
 
@@ -18,16 +26,11 @@ MWF 11-11:50am Eliz 205; pre-reqs: CSCI 221
 
 - Office hours: TBD
 
-## Class format
-
-
 ## Time tracking
 
 Each student is required to track their time spent on the class project. Use [this Excel template](/csci321-time-tracking.xlsx) to fill in your hours. Use partial hours, e.g., 3.1 hrs, 4.7 hrs, etc. Also specify the tasks you worked on that day.
 
 You are not graded on how many hours you spend on the project. I want everyone to keep track because this is common in business settings (particularly for consultants and remote workers) and it helps me keep track of the progress of the project.
-
-## Learning outcomes
 
 ## Textbook
 
