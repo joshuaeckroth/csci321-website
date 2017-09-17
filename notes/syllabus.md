@@ -117,10 +117,9 @@ During the final exam time (Thur Dec 14, 5-7pm), we will engage in a "retrospect
   - Fri, decide on class project
 - W2: Sep 6, Sep 8
   - Mon, status reports
-  - Wed, individual meetings
+  - Wed, hurricane
 - W3: Sep 11, Sep 13, Sep 15
-  - Mon, status reports
-  - Wed, individual meetings
+  - Hurricane
 - W4: Sep 18, Sep 20, Sep 22
   - Mon, status reports
   - Wed, individual meetings
