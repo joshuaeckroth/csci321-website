@@ -105,7 +105,7 @@ Milestone due dates:
 
 A final presentation will be scheduled during regular weekly class time so that other students and faculty may attend. All teams will be required to develop part of the presentation. Not all students are required to present; we'll figure out who will be presenting at a later date (presenting does not affect your grade).
 
-During the final exam time (Thur Dec 14, 5-7pm), we will engage in a "retrospective" and discuss the project and successes and failures. Attendance is required (and attendance is graded) but there is no grade related to this retrospective discussion.
+During the final exam time, we will engage in a "retrospective" and discuss the project and successes and failures. Attendance is required (and attendance is graded) but there is no grade related to this retrospective discussion.
 
 ## Calendar
 
